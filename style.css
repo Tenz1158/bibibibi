@@ -1,0 +1,24 @@
+body {
+background-color: #6D6F52;
+}
+#minhaC4{
+  font-size: 50px;
+  font-family: Freemono,monospace;
+  color: rgb(255,255,255);   
+}
+#billcipher{
+  font-size: 10pt;
+  font-family: Courier, monospace;
+  text-decoration: bold;
+  color:rgb(0,255,255)
+}
+.minhabolsa{
+  font-size: 16pt;
+  color: red;
+  font-family: Arial;
+}
+.meucomando{
+  font-size: 20pt;
+  color: blue;
+  font-family: Arial;
+}
